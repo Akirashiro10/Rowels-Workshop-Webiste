@@ -25,19 +25,12 @@
 - ### **Fully Responsive 🚀** 
 - ### **Super Fast and Optimized for Workshops ⚡** 
 
-
-
 <br/>
-<br/>
-
-
 
 ## Technologies used 🛠️
 
 - **HTML** 🚀
-- **CSS** 🚀
-- **JavaScript** 🚀
-  
+- **CSS** 🚀  
 
 ---
 
@@ -57,7 +50,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 
 ## Authors 👨‍💻
 
--   
+-   Project Leader: [Weslley Macapagal]@weslley2116
 
 <br>
 
