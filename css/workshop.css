@@ -753,7 +753,7 @@ button {
   row-gap: 2rem;
   border-bottom: 1px solid var(--border-color);
   padding-bottom: 3rem;
-  background-color: Blue;
+  background-color: rgb(25, 184, 247);
 }
 
 .footer__title {
