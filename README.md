@@ -51,7 +51,7 @@ If you like this project then give it a **Github** star by pressing the **Star**
 ## Authors 👨‍💻
 
 -   Project Leader: [Weslley Macapagal](https://github.com/weslley2116)
--   Members: [Torres Jeremie](https://github.com/Torres1735), [Espino Aldrian](https://github.com/Akirashiro10), [Lansangan Jenny](https://github.com/jennqt)
+-   Members: [Torres Jeremie](https://github.com/Torres1735), [Espino Aldrian](https://github.com/Akirashiro10), [Lansangan Jenny](https://github.com/jennnqt),[Parungao Cecille](https://github.com/cecille0),[Santos Jayvee](https://github.com/bugsss08)
 
 <br>
 
